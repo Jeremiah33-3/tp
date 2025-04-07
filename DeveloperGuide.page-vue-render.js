@@ -287,7 +287,7 @@ with(this){return _c('ol',[_c('li',[_v("Manager requests to list members")]),_v(
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC2 List tasks")])])}
@@ -302,7 +302,7 @@ with(this){return _c('ol',[_c('li',[_v("Manager requests to list tasks.")]),_v("
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The task list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The task list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC3 Delete a member")])])}
@@ -317,7 +317,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Manager "),_c('ins',[_v("list me
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC4 Edit a member")])])}
@@ -332,7 +332,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Manager "),_c('ins',[_v("list me
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. Edit command received invalid inputs.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. TeamScape shows an error message")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("2b. The given inputs contain invalid inputs.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2b1. TeamScape shows an error message")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC5 Add a member")])])}
@@ -347,7 +347,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Manager requests to add a member
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The details provided are invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 1.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The details provided are invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 1.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC6 Add a task under a member")])])}
@@ -362,7 +362,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Manager "),_c('ins',[_v("list me
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("4a. The given index for either task is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("4a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("4b. The given index for either member is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("4b1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. The given index for either task is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The given index for either member is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC7 Edit a task under a member")])])}
@@ -377,7 +377,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Manager "),_c('ins',[_v("list me
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("4a. The given index for either task is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("4a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("4b. The given index for either member is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("4b1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. The given index for either task is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The given index for either member is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC8 Create a task")])])}
@@ -392,7 +392,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Manager requests to create a tas
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. Invalid task input.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. Invalid task input.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC9 Set a due date for a task")])])}
@@ -407,22 +407,22 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Manager "),_c('ins',[_v("list ta
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. The given task index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The due date format is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The given task index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("2b. The due date format is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2b1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("2c. The due date is in the past.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2b1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case: UC10 Mark the task as completed, in progress, or yet to start")])])}
+with(this){return _c('p',[_c('strong',[_v("Use case: UC10 Update the task as completed, in progress, or yet to start")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("Manager "),_c('ins',[_v("list tasks (UC2)")]),_v(".")])]),_v(" "),_c('li',[_c('p',[_v("Manager requests to set a due date for a task.")])]),_v(" "),_c('li',[_c('p',[_v("TeamScape set a due date for a task.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("Manager "),_c('ins',[_v("list tasks (UC2)")]),_v(".")])]),_v(" "),_c('li',[_c('p',[_v("Manager requests to update a task as completed, in progress, or yet to start.")])]),_v(" "),_c('li',[_c('p',[_v("TeamScape mark the task by the given status.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. The given task index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The due date format is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The given task index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("2a. The status is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC11 Find and return members’ contact by name")])])}
@@ -437,7 +437,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Manager requests to find the mem
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. Empty member list")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("2b. No member of the name found.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2b1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. Empty member list")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("1b. No member of the name found.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1b1. TeamScape shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC12 Generate task status report")])])}
@@ -452,7 +452,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Manager requests to generate tas
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("2a. Empty task list\n"),_c('ul',[_c('li',[_c('p',[_v("2a1. TeamScape shows a No Task Found message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_v("1a. Empty task list\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. TeamScape shows a No Task Found message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC13 Use of help command")])])}
@@ -581,7 +581,7 @@ with(this){return _c('p',[_c('strong',[_v("Prerequisites:")])])}
 with(this){return _c('ul',[_c('li',[_v("Have at least one member with at least one task.")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("Test case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("updatetask 1 1 completed")]),_v(" "),_c('br'),_v(" "),_c('strong',[_v("Expected")]),_v(":")]),_v(" "),_c('ul',[_c('li',[_v("First task of first member updated as completed from its previous state.")]),_v(" "),_c('li',[_v("Successful message confirms update and shows new task details.")])])]),_v(" "),_c('li',[_c('p',[_v("Test case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("updatetask 3 2 project milestone 1 sprint, 2025-05-12 10:00, in progress")]),_v(" "),_c('br'),_v(" "),_c('strong',[_v("Expected")]),_v(":")]),_v(" "),_c('ul',[_c('li',[_v("Third task of second person updated as completed from its previous state.")]),_v(" "),_c('li',[_v("Successful message to confirm update and shows new task details.")])])]),_v(" "),_c('li',[_c('p',[_v("Test case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("updatetask 3 2 project milestone 1 sprint, invalidDateorTaskStatus")]),_v(" "),_c('br'),_v(" "),_c('strong',[_v("Expected")]),_v(":")]),_v(" "),_c('ul',[_c('li',[_v("No change to the specified task")]),_v(" "),_c('li',[_v("Error message shows specific error.")])])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("Test case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("updatetask 1 1 completed")]),_v(" "),_c('br'),_v(" "),_c('strong',[_v("Expected")]),_v(":")]),_v(" "),_c('ul',[_c('li',[_v("First task of first member updated as completed from its previous state.")]),_v(" "),_c('li',[_v("Successful message confirms update and shows new task details.")])])]),_v(" "),_c('li',[_c('p',[_v("Test case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("updatetask 3 2 project milestone 1 sprint, 2025-05-12 10:00, in progress")]),_v(" "),_c('br'),_v(" "),_c('strong',[_v("Expected")]),_v(":")]),_v(" "),_c('ul',[_c('li',[_v("Third task of second person updated as completed from its previous state.")]),_v(" "),_c('li',[_v("Successful message to confirm update and shows new task details.")])])]),_v(" "),_c('li',[_c('p',[_v("Test case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("updatetask 3 2 project milestone 1 sprint, invalidDateorTaskStatus")]),_v(" "),_c('br'),_v(" "),_c('strong',[_v("Expected")]),_v(":")]),_v(" "),_c('ul',[_c('li',[_v("No change to the specified task")]),_v(" "),_c('li',[_v("Error message shows specified error.")])])])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"finding-members"}},[_v("Finding members"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#finding-members","onclick":"event.stopPropagation()"}})])}
@@ -620,9 +620,9 @@ with(this){return _c('h2',{attrs:{"id":"appendix-effort"}},[_c('strong',[_v("App
 with(this){return _c('h2',{attrs:{"id":"appendix-planned-enhancements"}},[_c('strong',[_v("Appendix: Planned Enhancements")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#appendix-planned-enhancements","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('em',[_v("coming soon after PE-D")]),_v(".")])}
+with(this){return _c('ul',[_c('li',[_v("Tasks assigned to a member will only accept tasks that are actively being worked on.\nTasks with a \"completed\" status and due in the past will not be allowed, as the task system is not intended to store records of completed tasks. Such records will be stored and managed elsewhere.")]),_v(" "),_c('li',[_v("Since the Tasks feature is not designed to serve as a storage system, it should only accommodate a reasonable number of tasks, ideally between 5 to 10. Therefore, there is no need to label tasks on display with an index.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Mon, 7 Apr 2025, 10:48:19 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 6:03:15 GMT+8]")])])])}
 }];
   
