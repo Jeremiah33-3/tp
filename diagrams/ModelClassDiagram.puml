@@ -20,6 +20,7 @@ Package Model as ModelPackage <<Rectangle>> {
   Class Phone
   Class Tag
   Class Skill
+  Class Other
   Class Task {
     - dueDate : LocalDate
   }
@@ -31,7 +32,7 @@ Package Model as ModelPackage <<Rectangle>> {
 }
 
 Class HiddenOutside #FFFFFF
-HiddenOutside .up.> Model
+HiddenOutside ..> Model
 
 AddressBook .up.|> ReadOnlyAddressBook
 
@@ -44,7 +45,7 @@ UserPrefs .up.|> ReadOnlyUserPrefs
 
 ' Relationships for AddressBook and Person
 AddressBook *--> "1" UniquePersonList
-UniquePersonList --> "0..*" Person
+UniquePersonList --> "~* all" Person
 
 ' Person fields
 Person *--> Name
@@ -53,11 +54,12 @@ Person *--> Email
 Person *--> Address
 Person *--> "*" Tag
 Person *--> "*" Skill
+Person *--> "*" Other
 Person *--> Position
 Person *--> Telegram
 Person *--> "*" Task
 
 ' ModelManager related
-ModelManager --> "1..* filtered" Person
+ModelManager --> "~* filtered" Person
 
 @enduml
